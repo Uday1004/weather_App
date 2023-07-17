@@ -20,7 +20,7 @@ function App() {
       {/* <div><Main/></div>   */}
        
       <Routes>
-        <Route exact path='/weather_App' element={<Main/>}/>
+    
         <Route exact path='/home' element={<Main/>}/>
         <Route exact path='/' element={<Main/>}/>
 
