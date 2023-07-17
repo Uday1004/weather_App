@@ -34,8 +34,7 @@ export default function App() {
               <RiStackFill/> Mausam.ui
               </h6>
               <p>
-                Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
-                consectetur adipisicing elit.
+              "Mausam.UI: A sleek and intuitive weather information display in the footer of your webpage. Stay informed about the current weather conditions with this stylish and user-friendly interface."
               </p>
             </MDBCol>
 
