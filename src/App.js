@@ -4,6 +4,7 @@ import Forecaste from "./component/Forecaste";
 import Main from "./component/Main";
 import Navbar from "./component/Navbar";
 import WeatherMap from "./component/map";
+import About from "./component/About";
 import {
   BrowserRouter as Router,
   Routes,
@@ -18,6 +19,7 @@ function App() {
     
       <div><Navbar/></div>
       {/* <div><Main/></div>   */}
+      {/* <div><About/></div> */}
        
       <Routes>
     
@@ -30,6 +32,7 @@ function App() {
           {/* </Route> */}
              
           <Route exact path="/Forecast" element={<Forecaste/>}/>
+          <Route exact path="/About us" element={<About/>}/>
           {/* </Route> */}
             
            

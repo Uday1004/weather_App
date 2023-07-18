@@ -35,7 +35,7 @@ function Navbar() {
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a className="dropdown-item" href="#">Contact <RiPhoneFill/></a></li>
-            <li><a className="dropdown-item" href="#">About Us <RiUserFill/></a></li>
+            <li><a className="dropdown-item" href="/About us">About Us <RiUserFill/></a></li>
              
           </ul>
         </li>

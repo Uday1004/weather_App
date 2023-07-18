@@ -34,7 +34,7 @@ export default function App() {
               <RiStackFill/> Mausam.ui
               </h6>
               <p>
-              "Mausam.UI: A sleek and intuitive weather information display in the footer of your webpage. Stay informed about the current weather conditions with this stylish and user-friendly interface."
+              "Mausam.UI: A sleek and intuitive weather information displayed on your webpage. Stay informed about the current weather conditions with this stylish and user-friendly interface."
               </p>
             </MDBCol>
 
@@ -42,7 +42,7 @@ export default function App() {
               <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
               <p>
                 <a href='#!' className='text-reset'>
-                  Angular
+                  Node
                 </a>
               </p>
               <p>
@@ -52,12 +52,12 @@ export default function App() {
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Vue
+                  MUI
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Laravel
+                  Javascript
                 </a>
               </p>
             </MDBCol>
