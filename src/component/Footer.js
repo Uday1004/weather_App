@@ -97,10 +97,10 @@ export default function App() {
                 Mausam.ui.weather@.gmail.com
               </p>
               <p>
-                  +91 9174595317
+                  <a href = "mailto: udaysolanki530@gmail.com">Udaysolanki530@gmail.com</a>
               </p>
               <p>
-                  +91 78982 87715
+                   <a href = "mailto: udaysolanki530@gmail.com">Udaysolanki530@gmail.om</a>
               </p>
             </MDBCol>
           </MDBRow>
