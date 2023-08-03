@@ -97,10 +97,10 @@ export default function App() {
                 Mausam.ui.weather@.gmail.com
               </p>
               <p>
-                  <a href = "mailto: udaysolanki530@gmail.com">Udaysolanki530@gmail.com</a>
+                  <a href = "mailto: udaysolanki530@gmail.com" style={{textDecoration:'none' , color:'white'}}>Udaysolanki530@gmail.com</a>
               </p>
               <p>
-                   <a href = "mailto: udaysolanki530@gmail.com">Udaysolanki530@gmail.om</a>
+                   <a href = "mailto: udaysolanki530@gmail.com" style={{textDecoration:'none' , color:'white'}}>Udaysolanki530@gmail.om</a>
               </p>
             </MDBCol>
           </MDBRow>
