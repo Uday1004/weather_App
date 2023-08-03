@@ -33,13 +33,13 @@ To use this app locally, follow these steps:
 Clone the project
 
 ```bash
-  git clone https://github.com/Sandy712/Weather-app.git
+  [https://github.com/Uday1004/weather_App.git]
 ```
 
 Go to the project directory
 
 ```bash
-  cd Weather-app.git
+  cd weather_App.git
 ```
 
 Install dependencies
