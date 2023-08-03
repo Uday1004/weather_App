@@ -9,7 +9,7 @@ The React Weather App, developed by two enthusiastic third-year college students
 
 ## Live Demo 🌐
 
-Demo 👉 [here](https://mausam-007.netlify.app).
+Demo 👉 [here](https://mausamui.netlify.app/).
 
 ## Features 🌟
 
