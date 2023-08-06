@@ -100,8 +100,7 @@ export default function App() {
                   <a href = "mailto: udaysolanki530@gmail.com" style={{textDecoration:'none' , color:'white'}}>Udaysolanki530@gmail.com</a>
               </p>
               <p>
-                   <a href = "mailto: udaysolanki530@gmail.com" style={{textDecoration:'none' , color:'white'}}>Udaysolanki530@gmail.om</a>
-              </p>
+              <a href = "mailto: sandeepprajapat200@gmail.com" style={{textDecoration:'none' , color:'white'}}>sandeepprajapat200@gmail.com</a>              </p>
             </MDBCol>
           </MDBRow>
         </MDBContainer>
