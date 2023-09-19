@@ -175,6 +175,10 @@ body{
  .bg-light{
     background-color: #008793;
  }
+ .sun{
+    height: 44px !important;
+    width: 47px !important;
+ }
 
 
 
